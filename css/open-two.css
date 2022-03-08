@@ -1,0 +1,16 @@
+body{
+	background-color: darkslategrey;
+}
+
+h1{
+	text-transform: uppercase;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background: transparent;
+}
